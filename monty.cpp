@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/* 
 Date: October 23, 2018
 Section: 5
 Assignment: 4
@@ -6,8 +6,7 @@ Due Date: October 22, 2018
 About this project: (A game created for a user to pick one door out of three doors and have a losing door open.
 Then the user is asked to pick one of the last two doors and see if they win or lose)
 Assumptions: (The code will run a random number for the prize) 
-
-All work below was performed by Sabrina Pinera */
+*/
 
 //Libraries
 #include <iostream>
